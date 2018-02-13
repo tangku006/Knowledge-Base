@@ -29,7 +29,8 @@ public class Page {
   /** Returns the first sentence of the page, without brackets */
   public String firstSentence() {
     int dotPos = content.indexOf(". ");
-    if (dotPos == -1) return (content.replaceAll("\\(.*?\\)", "") + ".");
+    if (dotPos == -1) 
+    	return (content.replaceAll("\\(.*?\\)", "") + ".");
     return (content.substring(0, dotPos).replaceAll("\\(.*?\\)", "") + ".");
   }
 
@@ -49,11 +50,16 @@ public class Page {
     if (getClass() != obj.getClass()) return false;
     Page other = (Page) obj;
     if (content == null) {
-      if (other.content != null) return false;
-    } else if (!content.equals(other.content)) return false;
+      if (other.content != null) 
+    	  return false;
+    } else if (!content.equals(other.content)) 
+    	return false;
     if (title == null) {
-      if (other.title != null) return false;
-    } else if (!title.equals(other.title)) return false;
+      if (other.title != null) 
+    	  return false;
+    } else if (!title.equals(other.title)) 
+    	return false;
+    
     return true;
   }
 
