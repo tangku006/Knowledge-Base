@@ -1,0 +1,5 @@
+likesHermioneRon => -likesHermioneHarry [100]
+=> hermioneIsSmart [1]
+hermioneIsSmart & harryIsSmart => likesHermioneHarry [3]
+=> harryIsSmart [10]
+=> likesHermioneRon [20]

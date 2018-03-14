@@ -1,0 +1,145 @@
+s2v10c20-4.txt:
+  Weight: 86.0
+s2v20c40-4.txt:
+  Weight: 178.0
+s2v20c100-1.txt:
+  Weight: 497.0
+ram_k3_n10.ra1.txt:
+  Weight: 168196.0
+lion.txt:
+  Weight: 435.0
+s2v100c400-2.txt:
+  Weight: 1952.0
+s2v100c1200_1.txt:
+  Weight: 5515.0
+s2v20c100-8.txt:
+  Weight: 551.0
+s2v10c20-2.txt:
+  Weight: 108.0
+file_rwms_wcnf_L3_V70_C1000_0.txt:
+  Weight: 4959.0
+s2v50c100-7.txt:
+  Weight: 523.0
+s2v50c100-1.txt:
+  Weight: 511.0
+s2v100c400-6.txt:
+  Weight: 2054.0
+s2v20c100-2.txt:
+  Weight: 511.0
+s2v50c100-9.txt:
+  Weight: 469.0
+s2v100c400-5.txt:
+  Weight: 1942.0
+s2v20c100-5.txt:
+  Weight: 460.0
+s2v10c50-1.txt:
+  Weight: 246.0
+s2v10c50-3.txt:
+  Weight: 255.0
+frb40-19-5.txt:
+  Weight: 3.1763407E7
+s2v10c20-10.txt:
+  Weight: 106.0
+s2v20c40-10.txt:
+  Weight: 220.0
+s2v100c400-7.txt:
+  Weight: 1947.0
+c-fat200-1.clq.txt:
+  Weight: 516.0
+s2v10c20-7.txt:
+  Weight: 116.0
+s2v20c40-5.txt:
+  Weight: 197.0
+s2v10c50-2.txt:
+  Weight: 271.0
+s2v50c100-10.txt:
+  Weight: 548.0
+s2v20c100-4.txt:
+  Weight: 482.0
+frb10-6-1.txt:
+  Weight: 37035.0
+s2v10c50-9.txt:
+  Weight: 254.0
+brock200_1.clq.txt:
+  Weight: 4851.0
+s2v100c400-10.txt:
+  Weight: 2013.0
+s2v10c50-5.txt:
+  Weight: 231.0
+s2v100c400-3.txt:
+  Weight: 2057.0
+s2v10c50-6.txt:
+  Weight: 226.0
+s2v20c40-9.txt:
+  Weight: 199.0
+s2v100c400-8.txt:
+  Weight: 2158.0
+s2v50c100-4.txt:
+  Weight: 495.0
+s2v10c20-8.txt:
+  Weight: 102.0
+s2v10c20-9.txt:
+  Weight: 109.0
+s2v50c100-5.txt:
+  Weight: 485.0
+s2v100c400-4.txt:
+  Weight: 2005.0
+alien.txt:
+  Weight: 485.0
+s2v100c400-9.txt:
+  Weight: 1904.0
+s2v10c50-4.txt:
+  Weight: 293.0
+s2v20c40-2.txt:
+  Weight: 234.0
+s2v10c20-1.txt:
+  Weight: 127.0
+s2v10c50-8.txt:
+  Weight: 239.0
+s2v10c50-10.txt:
+  Weight: 242.0
+s2v20c100-7.txt:
+  Weight: 456.0
+hermione.txt:
+  Weight: 133.0
+s2v20c100-3.txt:
+  Weight: 567.0
+s2v50c100-3.txt:
+  Weight: 512.0
+s2v10c20-5.txt:
+  Weight: 95.0
+s2v50c100-6.txt:
+  Weight: 562.0
+s2v10c50-7.txt:
+  Weight: 238.0
+t3g3-5555.spn.txt:
+  Weight: 1.1088471E7
+s2v10c20-3.txt:
+  Weight: 118.0
+s2v20c100-9.txt:
+  Weight: 463.0
+s2v20c40-3.txt:
+  Weight: 207.0
+s2v20c40-7.txt:
+  Weight: 177.0
+s2v50c100-8.txt:
+  Weight: 564.0
+s2v10c20-6.txt:
+  Weight: 109.0
+s2v20c100-10.txt:
+  Weight: 512.0
+johnson8-2-4.clq.txt:
+  Weight: 2037.0
+s2v50c100-2.txt:
+  Weight: 521.0
+s2v20c40-8.txt:
+  Weight: 204.0
+s2v20c40-1.txt:
+  Weight: 237.0
+s2v20c100-6.txt:
+  Weight: 493.0
+s2v100c400-1.txt:
+  Weight: 2067.0
+s2v20c40-6.txt:
+  Weight: 199.0
+Mean Weight: 598777.0
